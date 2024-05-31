@@ -1,0 +1,14 @@
+{
+  "name": "hdift",
+  "version": "0.0.1",
+  "description": "how do i feel today? a simple journal in your CLI",
+  "main": "hdift.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hdift": "bin/hdift.js"
+  },
+  "author": "jadeddelta",
+  "license": "ISC"
+}
